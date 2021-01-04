@@ -72,7 +72,7 @@ section{
 }
 #box2{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg,#000DFF,#00BCFF);
+    border-image: linear-gradient(180deg,#fcfcff,#00BCFF);
     border-image-slice: 1;
 }
 .footer p{
